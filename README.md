@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kasun Pathirana</h1>
-<h3 align="center">Genius Flutter Developer | Passionate about crafting exceptional Flutter experiences. 🚀</h3>
+<h1 align="left">Hi 👋, I'm Kasun Pathirana</h1>
+<h3 align="left">Genius Flutter Developer | Passionate about crafting exceptional Flutter experiences. 🚀</h3>
 
-- 📫 How to reach me **flutter.geek87@gmail.com**
+<body>
+  <img src="https://cdn.dribbble.com/users/2401720/screenshots/4913912/media/a421f400053616b61d2d7d9f7d2ef4ec.jpg" alt="Animated Flutter Logo">
+</body>
 
+<body>
+  <p class="justified-text">
+    I'm an experienced Flutter Developer with years of experience in developing high-quality mobile applications using Flutter framework. Skilled in designing and developing custom widgets, integrating APIs, and optimizing app performance for iOS and Android platforms. Strong understanding of Flutter architecture and state management techniques, with hands-on experience in using popular state management libraries like Provider and Bloc. Proven track record of delivering successful projects on time and within budget. Passionate about staying up-to-date with the latest trends and technologies.
+  </p>
+</body>
+
+ 📫 How to reach me **flutter.geek87@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kasun-pathirana-98a89421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasun-pathirana-98a89421a/" height="30" width="40" /></a>
