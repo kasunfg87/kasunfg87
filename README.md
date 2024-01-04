@@ -2,7 +2,7 @@
 <h3 align="left">Genius Flutter Developer | Passionate about crafting exceptional Flutter experiences. 🚀</h3>
 
 <body>
-  <img src="https://cdn.dribbble.com/users/2401720/screenshots/4913912/media/a421f400053616b61d2d7d9f7d2ef4ec.jpg" alt="Animated Flutter Logo">
+  <img src="https://developer.apple.com/tvos/planning/images/planning-tvos-marker-large_2x.png" alt="Animated Flutter Logo">
 </body>
 
 <body>
