@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kasun Pathirana</h1>
-<h3 align="left">Genius Flutter Developer | Passionate about crafting exceptional Flutter experiences. 🚀</h3>
 
 <body>
-  <img src="https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1440&h=423">
+  <img src="https://i.postimg.cc/4nkBz54Q/github-header-image-4.png">
 </body>
 
 <body>
