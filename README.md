@@ -2,7 +2,7 @@
 <h3 align="left">Genius Flutter Developer | Passionate about crafting exceptional Flutter experiences. 🚀</h3>
 
 <body>
-  <img src="https://filebob.co/secure/file/Q2WVGrv4Gkx7y" alt="Animated Flutter Logo">
+  <img src="https://images.prismic.io/createthrive/97c66635-ed56-4329-9e0e-b46f9bdf1639_Blog%20landscape.png?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1440&h=423">
 </body>
 
 <body>
