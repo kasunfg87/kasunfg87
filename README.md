@@ -1,5 +1,3 @@
-<h1 align="left">Hi 👋, I'm Kasun Pathirana</h1>
-
 <body>
   <img src="https://i.postimg.cc/cHJxS7Sh/github-header-image-6.png">
 </body>
