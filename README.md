@@ -10,7 +10,7 @@ I am skilled in writing clean, maintainable code, and I bring strong problem-sol
   </p>
 </body>
 
- 📫 How to reach me **flutter.geek87@gmail.com**
+ 📫 How to reach me **flutter.geek87@gmail.com** / **kasundjk@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
