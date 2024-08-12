@@ -4,7 +4,9 @@
 
 <body>
   <p class="justified-text">
-    I'm an experienced Flutter Developer with years of experience in developing high-quality mobile applications using Flutter framework. Skilled in designing and developing custom widgets, integrating APIs, and optimizing app performance for iOS and Android platforms. Strong understanding of Flutter architecture and state management techniques, with hands-on experience in using popular state management libraries like Provider and Bloc. Proven track record of delivering successful projects on time and within budget. Passionate about staying up-to-date with the latest trends and technologies.
+    I am a self-taught Software Developer with over 4 years of .NET development experience and 3+ years in Flutter development. Currently, I am passionate about Flutter, where I excel in creating custom widgets, integrating APIs, and optimizing performance for iOS and Android. My expertise includes a deep understanding of state management libraries like Provider, Bloc, and Riverpod, as well as a solid grasp of Object-Oriented Programming (OOP) practices.
+
+I am skilled in writing clean, maintainable code, and I bring strong problem-solving abilities and attention to detail to every project. I have advanced skills in writing widget and unit tests and exceptional debugging capabilities. My experience includes building apps that support multiple locales, adhere to material guidelines, and follow clean architecture principles. I collaborate closely with UI/UX designers to create visually appealing and user-friendly interfaces, continuously improve development processes, and integrate REST APIs, GraphQL, and WebSockets. With a comprehensive understanding of the full mobile development life cycle, version control (Git), and best practices like SOLID principles and DRY methodologies, I am dedicated to delivering high-quality, scalable software solutions.
   </p>
 </body>
 
